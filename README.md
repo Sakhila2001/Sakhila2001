@@ -1,16 +1,68 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Coding GIF">
+</p>
 
-<!--
-**Sakhila2001/Sakhila2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Sakhila! 👋</h1>
+<p align="center"><em>Backend Developer | Laravel & API Wizard | Lifelong Learner 🌟</em></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+<!--   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio"></a> -->
+  <a href="mailto:sakhthani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+I'm a passionate **Backend Developer** with a knack for crafting robust APIs and scalable systems using **Laravel**. I thrive on solving complex problems, debugging tricky code, and learning new technologies. When I'm not coding, you can find me solving logic puzzles or exploring the latest in **DevOps** and **React**.
+
+- 🔭 **Currently working on**: Laravel-based APIs, authentication systems, and dashboard modules  
+- 🌱 **Learning**: React, DevOps (CI/CD pipelines, AWS basics)  
+- 💬 **Ask me about**: PHP, Laravel, MySQL, RESTful APIs, or system architecture  
+- ⚡ **Fun fact**: I once debugged a production issue in under 10 minutes while sipping coffee! ☕  
+
+---
+
+### 🛠 My Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+<!--   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"> -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
+</p>
+
+---
+
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakhila&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sakhila's GitHub Stats" width="420">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhila&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhila&theme=dracula&hide_border=true" alt="GitHub Streak" width="420">
+</p>
+
+---
+
+
+### 📬 Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+<!--   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio"></a> -->
+  <a href="mailto:sakhthani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by! ⭐️ Star my repos if you find them inspiring, and let's build something amazing together! 🚀</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakhila&color=blueviolet&style=flat-square" alt="Profile Views">
+</p>
