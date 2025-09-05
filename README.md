@@ -44,19 +44,13 @@ I'm a passionate **Backend Developer** with a knack for crafting robust APIs and
 - ⭐ Total: 2320+
 
 ---
-## 🚀 Deployed Projects
 
-###  Techspire Innovation  
-** Launch:** https://techspireinnovation.com.np/  
-A full-stack Laravel site for a top Nepalese software firm. Features tailored ERP solutions (Mantra ERP, Cooperatives software), and services like digital marketing, SEO, hosting, and data security.
-
-###  Shree Janata Secondary School  
-** Launch:** https://janatasecondaryschool.com/  
-Educational portal for a leading school in Itahari. Offers class details from Nursery to Grade XII, manages updates like Annual Day events, and provides contact info and programs.
-
-###  Hotel Prime Suite  
-** Launch:** https://hotelprimesuite.com/  
-A hospitality website highlighting a hotel with views of Pashupatinath Temple, proximity to the airport, family-focused amenities, room details, dining, and tour booking services.
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Techspire Innovation** | A full-stack website for a Nepalese software company offering ERP solutions, digital marketing, SEO, and hosting services | Laravel, MySQL, Bootstrap | [🌐 Visit Site](https://techspireinnovation.com.np/) |
+| **Shree Janata Secondary School** | An educational portal for one of the largest schools in Itahari, with program details, notices, and events | Laravel, MySQL, Tailwind CSS | [🌐 Visit Site](https://janatasecondaryschool.com/) |
+| **Hotel Prime Suite** | A hospitality website showcasing rooms, dining, tour booking, and temple views near Pashupatinath | Laravel, MySQL, Bootstrap | [🌐 Visit Site](https://hotelprimesuite.com/) |
 
 
 ### 📬 Let's Connect!
