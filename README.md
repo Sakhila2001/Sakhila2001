@@ -38,14 +38,10 @@ I'm a passionate **Backend Developer** with a knack for crafting robust APIs and
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakhila&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Sakhila's GitHub Stats" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhila&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakhila&theme=dracula&hide_border=true" alt="GitHub Streak" width="420">
-</p>
+### 📊 Activity
+- 🔐 Private commits: 2200+ (last 12 months)
+- 🌐 Public contributions: 120+
+- ⭐ Total: 2320+
 
 ---
 
