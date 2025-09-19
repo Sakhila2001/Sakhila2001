@@ -6,19 +6,25 @@
 <p align="center"><em>Backend Developer | Laravel & API Wizard | Lifelong Learner 🌟</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://yourwebsite.com"><img src="https://sakhilathami.com.np/?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio"></a>
-  <a href="mailto:sakhthani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://sakhilathami.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio">
+  </a>
+  <a href="mailto:sakhthani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  </a>
 </p>
 
 ---
 
 ### 🌟 About Me
-I'm a passionate **Backend Developer** with a knack for crafting robust APIs and scalable systems using **Laravel**. I thrive on solving complex problems, debugging tricky code, and learning new technologies. When I'm not coding, you can find me solving logic puzzles or exploring the latest in **DevOps** and **React**.
+I'm a passionate **Backend Developer** specializing in **Laravel, RESTful APIs, and scalable systems**. I enjoy solving complex problems, optimizing backend architectures, and continuously learning new technologies. Outside of coding, I love solving logic puzzles and exploring DevOps practices and modern front-end frameworks like React.  
 
-- 🔭 **Currently working on**: Laravel-based APIs, authentication systems, and dashboard modules  
+- 🔭 **Currently working on**: Laravel APIs, authentication systems, and dashboard modules  
 - 🌱 **Learning**: React, DevOps (CI/CD pipelines, AWS basics)  
-- 💬 **Ask me about**: PHP, Laravel, MySQL, RESTful APIs, or system architecture  
+- 💬 **Ask me about**: PHP, Laravel, MySQL, RESTful APIs, system architecture  
 - ⚡ **Fun fact**: I once debugged a production issue in under 10 minutes while sipping coffee! ☕  
 
 ---
@@ -31,7 +37,6 @@ I'm a passionate **Backend Developer** with a knack for crafting robust APIs and
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
-<!--   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"> -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
 </p>
@@ -39,13 +44,13 @@ I'm a passionate **Backend Developer** with a knack for crafting robust APIs and
 ---
 
 ### 📊 Activity
-- 🔐 Private commits: 2200+ (last 12 months)
-- 🌐 Public contributions: 120+
-- ⭐ Total: 2320+
+- 🔐 Private commits: 2200+ (last 12 months)  
+- 🌐 Public contributions: 120+  
+- ⭐ Total: 2320+  
 
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -53,13 +58,19 @@ I'm a passionate **Backend Developer** with a knack for crafting robust APIs and
 | **Shree Janata Secondary School** | An educational portal for one of the largest schools in Itahari, with program details, notices, and events | Laravel, MySQL, Tailwind CSS | [🌐 Visit Site](https://janatasecondaryschool.com/) |
 | **Hotel Prime Suite** | A hospitality website showcasing rooms, dining, tour booking, and temple views near Pashupatinath | Laravel, MySQL, Bootstrap | [🌐 Visit Site](https://hotelprimesuite.com/) |
 
-
+---
 
 ### 📬 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-<!--   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio"></a> -->
-  <a href="mailto:sakhthani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sakhila-thami-a47649260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
+  </a>
+  <a href="https://sakhilathami.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white&style=flat-square" alt="Portfolio">
+  </a>
+  <a href="mailto:sakhthani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+  </a>
 </p>
 
 ---
