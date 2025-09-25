@@ -56,7 +56,7 @@ I'm a passionate **Backend Developer** specializing in **Laravel, RESTful APIs, 
 |---------|-------------|------------|------|
 | **Techspire Innovation** | A full-stack website for a Nepalese software company offering ERP solutions, digital marketing, SEO, and hosting services | Laravel, MySQL, Bootstrap | [🌐 Visit Site](https://techspireinnovation.com.np/) |
 | **Shree Janata Secondary School** | An educational portal for one of the largest schools in Itahari, with program details, notices, and events | Laravel, MySQL, Tailwind CSS | [🌐 Visit Site](https://janatasecondaryschool.com/) |
-| **Hotel Prime Suite** | A hospitality website showcasing rooms, dining, tour booking, and temple views near Pashupatinath | Laravel, MySQL, Bootstrap | [🌐 Visit Site](https://hotelprimesuite.com/) |
+| **Hotel Prime Suite** | A hospitality website showcasing rooms, dining, tour booking, and temple views near Pashupatinath | Wordpress, php | [🌐 Visit Site](https://hotelprimesuite.com/) |
 | **Personal Blog Project** | A full-stack blog application with user authentication, role-based permissions, and content management using React, Node.js, Express, MongoDB, and ImageKit | React, Node.js, Express, MongoDB, JWT, ImageKit | [🌐 Demo](https://blog-six-zeta-37.vercel.app/) • [💻 GitHub](https://github.com/Sakhila2001/blog) |
 
 ---
